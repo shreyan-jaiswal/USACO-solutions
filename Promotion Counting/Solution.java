@@ -1,4 +1,5 @@
 #Shreyan Jaiswal, January 2017
+#Problem at http://usaco.org/index.php?page=viewproblem2&cpid=696
 
 import java.io.*;
 import java.lang.*;
